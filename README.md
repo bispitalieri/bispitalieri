@@ -4,11 +4,8 @@
   <p>Building APIs, microservices and cloud-backed products with a practical, end-to-end perspective.</p>
   <p align="center">
     <a href="https://biagiospitalieri.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-green?logo=devdotto&logoColor=black&labelColor=white"></a>
-    <span>•</span>
     <a href="https://t.me/Jiiago"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-blue?logo=telegram&labelColor=white"></a>
-    <span>•</span>
     <a href="https://linkedin.com/in/biagio-spitalieri"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9IiMwZWE1ZTkiPjxwYXRoIGZpbGw9IiMwZWE1ZTkiIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjMyIDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAwIDEgMS40IDEuNHY0LjkzaDIuNzlNNi44OCA4LjU2YTEuNjggMS42OCAwIDAgMCAxLjY4LTEuNjhjMC0uOTMtLjc1LTEuNjktMS42OC0xLjY5YTEuNjkgMS42OSAwIDAgMC0xLjY5IDEuNjljMCAuOTMuNzYgMS42OCAxLjY5IDEuNjhtMS4zOSA5Ljk0di04LjM3SDUuNXY4LjM3aDIuNzdaIi8+PC9zdmc+&labelColor=white&logoColor=blu"></a>
-    <span>•</span>
     <a href="mailto:biagio.spitalieri@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?logo=gmail&labelColor=white"></a>
   </p>
 </div>
